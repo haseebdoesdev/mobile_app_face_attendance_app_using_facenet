@@ -266,16 +266,6 @@ class _CameraScreenState extends State<CameraScreen> with WidgetsBindingObserver
                       ),
                       textAlign: TextAlign.center,
                     ),
-                    SizedBox(height: 4),
-                    Text(
-                      'Nouman Zahid (FA23-BCS-085)',
-                      style: TextStyle(
-                        fontSize: 16,
-                        color: Colors.white,
-                        fontWeight: FontWeight.w600,
-                      ),
-                      textAlign: TextAlign.center,
-                    ),
                   ],
                 ),
               ),

@@ -4,7 +4,6 @@ A Flutter-based mobile application that uses deep learning for automated attenda
 
 ## 👥 Developers
 - **Abdul Haseeb** (FA23-BCS-120)
-- **Nouman Zahid** (FA23-BCS-085)
 
 ## 📋 Overview
 
@@ -230,7 +229,6 @@ This is an academic project. For any suggestions or improvements, please contact
 
 For queries or collaboration:
 - Abdul Haseeb: abdlhaseeb17@gmail.com
-- Nouman Zahid: noumanzahid85@gmail.com
 
 ---
 
